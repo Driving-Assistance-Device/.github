@@ -1,6 +1,6 @@
 ## Driving Assistance Device 
  
-![Image](https://github.com/user-attachments/assets/9ac22ba5-2a4e-4f17-88f5-cddd98affafc)  
+![Image](https://github.com/user-attachments/assets/043faf92-5ebb-49b8-b5d2-104a314fae2d)
 <!--
 
 **Here are some ideas to get you started:**
