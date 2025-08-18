@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/043faf92-5ebb-49b8-b5d2-104a314fae2d)  
 
 ## System Overview
-<img width="1437" height="587" alt="Image" src="https://github.com/user-attachments/assets/265c9c03-467f-4cba-bec1-1a41d9f63cb3" />  
+<img width="2547" height="1212" alt="Image" src="https://github.com/user-attachments/assets/881b3391-7c48-4911-bc41-1c6551bb9cd7" />
 <!--
 
 **Here are some ideas to get you started:**
