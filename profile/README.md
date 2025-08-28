@@ -1,9 +1,13 @@
 ## Driving Assistance Device 
- 
-![Image](https://github.com/user-attachments/assets/043faf92-5ebb-49b8-b5d2-104a314fae2d)  
+
+<p align="center">
+ <img width="850" alt="Image" src="https://github.com/user-attachments/assets/239cee44-7430-4045-a44c-27b52f99ad32" />
+</p>
 
 ## System Overview
-<img width="2547" height="1212" alt="Image" src="https://github.com/user-attachments/assets/881b3391-7c48-4911-bc41-1c6551bb9cd7" />
+<p align="center">
+ <img width="850" alt="Image" src="https://github.com/user-attachments/assets/881b3391-7c48-4911-bc41-1c6551bb9cd7" />
+</p>
 
 ## Demo
 [Link](https://www.youtube.com/watch?v=9SB7_Wfv8T8)  
@@ -14,7 +18,10 @@
 - [Backend](https://github.com/Driving-Assistance-Device/Vehicle-BE)  
 - [Frontend](https://github.com/Driving-Assistance-Device/DM-Front)  
 <!--
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d93b3bb-a523-4cbf-9893-10645ae0ac8a" width="550">
+  <img src="https://github.com/user-attachments/assets/406c9c52-573c-43e1-aaba-12bd5be66b4d" width="550">
+</p>
 
 **Here are some ideas to get you started:**
 
