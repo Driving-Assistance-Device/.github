@@ -7,7 +7,14 @@
 
 ## Demo
 [Link](https://www.youtube.com/watch?v=9SB7_Wfv8T8)  
+
+## Repo
+- [Device](https://github.com/Driving-Assistance-Device/Vehicle_Device/tree/main)  
+- [HUD](https://github.com/Driving-Assistance-Device/HUD)  
+- [Backend](https://github.com/Driving-Assistance-Device/Vehicle-BE)  
+- [Frontend](https://github.com/Driving-Assistance-Device/DM-Front)  
 <!--
+
 
 **Here are some ideas to get you started:**
 
